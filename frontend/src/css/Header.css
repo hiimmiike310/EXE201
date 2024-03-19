@@ -1,0 +1,6 @@
+/* .dropDown{
+    left: -20px;
+} */
+.dropdown-menu.show{
+    left: -20px;
+}

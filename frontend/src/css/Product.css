@@ -1,0 +1,24 @@
+.buttonType{
+    background: #fff;
+    width: fit-content;
+    color: black;
+    margin-right: 10px;
+    margin-top: 10px;
+    border: 1px solid #7b8a8b;
+}
+.review button{
+    margin-top: 0;
+}
+
+#controlled-tab-example-tab-home{
+    border: 0px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid red;
+}
+
+.selected{
+    background:#3c4c5d ;
+    color: #fff;
+}
